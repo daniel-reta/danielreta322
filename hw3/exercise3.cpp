@@ -1,3 +1,5 @@
+// Daniel Reta, dr37277, danreta
+
 #include <iostream>
 
 using namespace std;
@@ -14,7 +16,8 @@ int main() {
         while (current != 1) {
             if (current % 2 == 0) {
                 current = current / 2;
-            } else {
+            }
+            else {
                 current = 3 * current + 1;
             }
 
