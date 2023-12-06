@@ -3,6 +3,7 @@
 #include <random>
 #include <map>
 
+//Daniel Reta, dr37277, TACC username: danreta
 
 using namespace std;
 
